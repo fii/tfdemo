@@ -1,5 +1,5 @@
 
-module "vpc-1" {
+module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 
   name = "my-vpc"
