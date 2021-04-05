@@ -1,5 +1,5 @@
 
-![](/Users/fii/Downloads/VPC.png) 
+![](VPC.png) 
 
 **Steps  - Part 1 - Inter VPC Communication**
 
